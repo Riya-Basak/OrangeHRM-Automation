@@ -1,26 +1,14 @@
-## Test automation project using Cucumber and Java
-
----
+Login Automation using Java and Cucumber
 
 ## Tested Website
-[Demoblaze](https://www.demoblaze.com/)
+ https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+ 
+⚙️ Features
+- ✅ Automated login verification (valid & invalid credentials)  
+- 📂 Data-driven testing from Excel/CSV  
+- 🧩 Page Object Model (POM) design pattern  
 
-## Pre-requisites (Installations):
-- JDK 17.0.1+
-- Maven
-- IntelliJ IDE
-- Check your Chrome version and download the right version of chromedriver from <br/>
-   https://chromedriver.chromium.org/downloads <br/>
-  Then replace the chromedriver from src>test>resources with the downloaded one.
 
-## Dependencies:
-- cucumber-java 7.8.1
-- cucumber-testng 7.8.1
-- cucumber-junit 7.8.1
-- selenium-java 4.5.0
-- cucumber-compiler-plugin 3.10.1
-- maven-surefire-plugin 3.0.0.M6
-<br/>
 
 ## Path Setup
 - Set JDK bin path to the environment variables
